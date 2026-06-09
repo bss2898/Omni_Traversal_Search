@@ -1,0 +1,13 @@
+Size,Algorithm,Found,Comparisons,Time(ms)
+100,Linear,True,76,0.0053
+100,Bidirectional,True,50,0.0047
+100,TEM,True,95,0.0239
+1000,Linear,True,545,0.0179
+1000,Bidirectional,True,912,0.0376
+1000,TEM,True,181,0.0363
+10000,Linear,True,5795,0.2391
+10000,Bidirectional,True,8412,0.442
+10000,TEM,True,3181,0.6094
+100000,Linear,True,77678,2.6293
+100000,Bidirectional,True,44646,2.0213
+100000,TEM,True,89287,18.2159
