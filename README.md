@@ -1,5 +1,5 @@
 # Omni_Traversal_Search
-TEM Search is a multi-pointer linear search strategy that inspects:
+Omni_Traversal Search is a multi-pointer linear search strategy that inspects:
 - Left edge
 - Right edge
 - Middle
